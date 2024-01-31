@@ -1,12 +1,12 @@
 class Werewolf
-  attr_reader :name
+  attr_reader :name,
               :location
 
   attr_accessor :human,
                 :change,
                 :werewolf
 
-  def initialize(name, location="london")
+  def initialize(name, location = "london")
     @name = name
     @location = location
     @human = true
@@ -15,11 +15,7 @@ class Werewolf
   end
 
   def human?
-    if @change.odd?
-      false
-    else
-      true
-    end
+    !@change.odd?
   end
 
   def change!
@@ -27,11 +23,7 @@ class Werewolf
   end
 
   def werewolf?
-    if @change.odd?
-      @werewolf = true
-    else
-      @werewolf = false
-    end
+    @werewolf = @change.odd?
   end
 
 end
