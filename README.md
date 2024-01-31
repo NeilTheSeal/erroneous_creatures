@@ -20,8 +20,8 @@ git clone git@github.com:turingschool-examples/erroneous_creatures.git
 
 ## Suggested Order
 
-* `unicorn_spec.rb`
-* `vampire_spec.rb`
+* `unicorn_spec.rb` X
+* `vampire_spec.rb` X
 * `dragon_spec.rb`
 * `hobbit_spec.rb`
 * `pirate_spec.rb`
