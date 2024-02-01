@@ -22,13 +22,13 @@ git clone git@github.com:turingschool-examples/erroneous_creatures.git
 
 * `unicorn_spec.rb` X
 * `vampire_spec.rb` X
-* `dragon_spec.rb`
-* `hobbit_spec.rb`
-* `pirate_spec.rb`
-* `wizard_spec.rb`
-* `medusa_spec.rb`
-* `werewolf_spec.rb`
-* `centaur_spec.rb`
+* `dragon_spec.rb` X
+* `hobbit_spec.rb` X
+* `pirate_spec.rb` X
+* `wizard_spec.rb` X
+* `medusa_spec.rb` X
+* `werewolf_spec.rb` X
+* `centaur_spec.rb` 
 * `hydra_spec.rb`
 
 ### Common Mistakes
