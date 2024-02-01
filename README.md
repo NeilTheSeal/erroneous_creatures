@@ -28,8 +28,8 @@ git clone git@github.com:turingschool-examples/erroneous_creatures.git
 * `wizard_spec.rb` X
 * `medusa_spec.rb` X
 * `werewolf_spec.rb` X
-* `centaur_spec.rb` 
-* `hydra_spec.rb`
+* `centaur_spec.rb` X
+* `hydra_spec.rb` X
 
 ### Common Mistakes
 
